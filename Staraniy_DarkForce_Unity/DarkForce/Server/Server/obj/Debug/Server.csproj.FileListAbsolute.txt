@@ -1,0 +1,28 @@
+E:\vs project\Dark Force\Server\Server\bin\Debug\Server.pdb
+E:\vs project\Dark Force\Server\Server\bin\Debug\PEProtocol.dll
+E:\vs project\Dark Force\Server\Server\bin\Debug\PESocket.dll
+E:\vs project\Dark Force\Server\Server\bin\Debug\PEProtocol.pdb
+E:\vs project\Dark Force\Server\Server\bin\Debug\PESocket.pdb
+E:\vs project\Dark Force\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\vs project\Dark Force\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\vs project\Dark Force\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\vs project\Dark Force\Server\Server\obj\Debug\Server.pdb
+E:\vs project\Dark Force\Server\Server\bin\Debug\Server.exe
+E:\vs project\Dark Force\Server\Server\obj\Debug\Server.exe
+E:\unityproject\DarkForce\Server\Server\bin\Debug\Server.exe
+E:\unityproject\DarkForce\Server\Server\bin\Debug\Server.pdb
+E:\unityproject\DarkForce\Server\Server\bin\Debug\PEProtocol.dll
+E:\unityproject\DarkForce\Server\Server\bin\Debug\PESocket.dll
+E:\unityproject\DarkForce\Server\Server\bin\Debug\PEProtocol.pdb
+E:\unityproject\DarkForce\Server\Server\bin\Debug\PESocket.pdb
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.exe
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.pdb
+E:\unityproject\DarkForce\Server\Server\bin\Debug\Server.exe.config
+E:\unityproject\DarkForce\Server\Server\bin\Debug\MySql.Data.dll
+E:\unityproject\DarkForce\Server\Server\bin\Debug\Server.exe.manifest
+E:\unityproject\DarkForce\Server\Server\bin\Debug\Server.application
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.exe.manifest
+E:\unityproject\DarkForce\Server\Server\obj\Debug\Server.application

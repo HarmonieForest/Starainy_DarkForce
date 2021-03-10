@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item ID="1">
+		<taskName>智者点拨</taskName>
+		<count>1</count>
+		<exp>1130</exp>
+		<gold>1280</gold>
+	</item>
+	<item ID="2">
+		<taskName>副本战斗</taskName>
+		<count>3</count>
+		<exp>1200</exp>
+		<gold>1307</gold>
+	</item>
+	<item ID="3">
+		<taskName>强化升级</taskName>
+		<count>5</count>
+		<exp>1250</exp>
+		<gold>1312</gold>
+	</item>
+	<item ID="4">
+		<taskName>购买体力</taskName>
+		<count>2</count>
+		<exp>1340</exp>
+		<gold>1425</gold>
+	</item>
+	<item ID="5">
+		<taskName>铸造金币</taskName>
+		<count>5</count>
+		<exp>1420</exp>
+		<gold>1573</gold>
+	</item>
+	<item ID="6">
+		<taskName>能言善辩</taskName>
+		<count>3</count>
+		<exp>1560</exp>
+		<gold>1696</gold>
+	</item>
+</root>
